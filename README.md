@@ -1,7 +1,7 @@
 # 個人履歷網站 · Personal Resume Website
 
 以個人品牌為主題的互動式履歷網頁，使用純 HTML5 + CSS3
-完成，包含多種 CSS 動畫與互動效果，不依賴任何 Framework。
+完成包含多種 CSS 動畫與互動效果。
 
 🔗 **[Live Demo](https://melodyma54316-cmyk.github.io/Resume/)**
 
